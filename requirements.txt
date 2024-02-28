@@ -7,3 +7,5 @@ altair
 openseespy
 opsvis
 matplotlib
+numpy
+datetime
