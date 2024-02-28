@@ -5,3 +5,4 @@ plotly
 streamlit_aggrid
 altair
 openseespy
+opsvis
