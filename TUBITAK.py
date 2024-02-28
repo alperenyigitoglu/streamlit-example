@@ -7,7 +7,6 @@ import os
 import json
 import streamlit as st
 import pandas as pd
-from st_aggrid import AgGrid
 import openseespy.opensees as ops
 import opsvis as opsv
 import matplotlib.pyplot as plt
