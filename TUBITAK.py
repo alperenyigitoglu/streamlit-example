@@ -40,7 +40,7 @@ st.set_page_config(            #Streamlit page configuration
         )
     }
 )
-st.write("Duygu")
+st.write("Şermin Duygu Pazar")
 st.write(datetime.datetime.now())
 st.sidebar.image("https://www.gtu.edu.tr/Files/basin_ve_halkla_iliskiler/kurumsal_kimlik/raster_logolar/GTU_LOGO_600X384_JPG_EN.jpg")
 st.sidebar.header("Civil Engineering Department")
